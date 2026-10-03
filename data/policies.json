@@ -1,42 +1,52 @@
 [
   {
     "id": "returns_general",
-    "title": "Returns – General Window",
-    "content": "Most items are returnable within 30 days from delivery if in sellable condition with all accessories. Shipping fees are non-refundable."
+    "title": "General return window",
+    "content": "Most items are returnable within 30 days of delivery when they are in sellable condition and include all accessories. Shipping fees are not refundable."
   },
   {
     "id": "returns_electronics",
-    "title": "Returns – Electronics",
-    "content": "Electronics have a 30-day window from delivery. Opened electronics are returnable with all accessories; a category restocking fee may apply. Physical damage not caused by shipping is not eligible."
+    "title": "Electronics returns",
+    "content": "Electronics have a 30-day return window. Opened electronics must include all accessories and are subject to a 10% restocking fee."
+  },
+  {
+    "id": "restocking_general",
+    "title": "Restocking fees by category",
+    "content": "Restocking fees depend on the item category and condition. Sealed items have no restocking fee; opened-item rates are listed in the category-specific policies."
   },
   {
     "id": "restocking_electronics_opened",
-    "title": "Restocking – Opened Electronics",
-    "content": "Opened electronics incur a 10% restocking fee if returned within the valid window. Sealed electronics have no restocking fee."
+    "title": "Opened electronics restocking fee",
+    "content": "Opened electronics returned within the valid window have a 10% restocking fee. Sealed electronics have no restocking fee."
   },
   {
     "id": "restocking_apparel_opened",
-    "title": "Restocking – Apparel",
+    "title": "Apparel restocking fee",
     "content": "Apparel with tags removed or light wear may be accepted within 30 days with a 5% restocking fee. New-with-tags apparel has no fee."
   },
   {
     "id": "restocking_home_opened",
-    "title": "Restocking – Home & Kitchen",
-    "content": "Opened home/kitchen items in good condition may incur a 5% restocking fee if within 30 days."
+    "title": "Home and kitchen restocking fee",
+    "content": "Opened home and kitchen items in good condition may have a 5% restocking fee when returned within 30 days. Sealed items have no fee."
+  },
+  {
+    "id": "returns_books",
+    "title": "Books and physical media returns",
+    "content": "Books and unopened physical media may be returned within 30 days. Opened books have no restocking fee; opened digital media is not covered by this demonstration policy."
   },
   {
     "id": "refurbished_policy",
-    "title": "Refurbished – Window & Fee",
-    "content": "Refurbished items have a 14-day return window. If opened, a 15% restocking fee applies. Cosmetic blemishes disclosed at purchase are not defects."
+    "title": "Refurbished item returns",
+    "content": "Refurbished items have a 14-day return window. Opened refurbished items have a 15% restocking fee."
   },
   {
     "id": "shipping_refundability",
-    "title": "Shipping Fees – Non-Refundable",
-    "content": "Original and expedited shipping fees are non-refundable unless the return is due to our error or a verified DOA case."
+    "title": "Shipping fee refunds",
+    "content": "Original and expedited shipping fees are not refundable unless the return is caused by a fulfillment error or a verified damaged-on-arrival case."
   },
   {
     "id": "doa_defective",
-    "title": "Damaged/Defective on Arrival (DOA)",
-    "content": "Items damaged in transit or defective on arrival qualify for a free replacement or full refund if reported within 7 days of delivery."
+    "title": "Damaged or defective on arrival",
+    "content": "Items damaged in transit or defective on arrival qualify for a replacement or full merchandise refund when reported within seven days of delivery."
   }
 ]
